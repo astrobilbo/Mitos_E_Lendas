@@ -1,0 +1,551 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8752217017925219522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 58c95b6c-3f40-4b28-80f8-d4782da4f3d4
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Tinha o bico laranja e penas azuis
+  children:
+  - 12314dbd-0d5b-4f50-a960-e096fcad9a57
+  rect:
+    serializedVersion: 2
+    x: 636
+    y: 89
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-7057468346849468967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 788866c8-2539-4ff2-9604-695331878d4a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Que usaria seus poderes m\xE1gicos para transformar suas plumagens em brilhantes
+    tons de negro"
+  children:
+  - 493b30c1-25c6-4062-bfcc-d209a4c161af
+  rect:
+    serializedVersion: 2
+    x: 1072
+    y: 131
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-6432215847087400126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 493b30c1-25c6-4062-bfcc-d209a4c161af
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Qual p\xE1ssaro n\xE3o obedeceu o Melro?"
+  children:
+  - 80bfc2f7-4a01-401c-be91-1de9dcdb3a11
+  - 560effb9-a703-4cf4-9c44-cf7708b55c53
+  - 8a3a58e4-7ec7-4056-8250-d62dbce02ef1
+  rect:
+    serializedVersion: 2
+    x: 1272
+    y: 131
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-5084146341007550923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: c5313286-dba4-48bb-b3b6-9019fd99adee
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Em um animal grande e forte
+  children:
+  - 6c8f85ef-e5cd-474f-983d-8c5b01977a49
+  rect:
+    serializedVersion: 2
+    x: 1911
+    y: 377
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-4446674856668066614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 560effb9-a703-4cf4-9c44-cf7708b55c53
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Galinha d\u2019Angola"
+  children:
+  - 6c8f85ef-e5cd-474f-983d-8c5b01977a49
+  rect:
+    serializedVersion: 2
+    x: 1473
+    y: 231
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3765904103923379414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 80bfc2f7-4a01-401c-be91-1de9dcdb3a11
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Pinguim
+  children:
+  - 493b30c1-25c6-4062-bfcc-d209a4c161af
+  rect:
+    serializedVersion: 2
+    x: 1473
+    y: 131
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3412256952623636075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 6c8f85ef-e5cd-474f-983d-8c5b01977a49
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: No que a galinha d'Angola foi transformada?
+  children:
+  - 962e68a3-bacb-47f7-9dc4-ced3193127f6
+  - 87963ef5-e075-4a99-932e-f1308ff87dde
+  - c5313286-dba4-48bb-b3b6-9019fd99adee
+  rect:
+    serializedVersion: 2
+    x: 1689
+    y: 226
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-91916966954524192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 04775e93-41e5-4db7-a36d-1d6168719386
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Estavam com inveja uma das outras
+  children:
+  - 12314dbd-0d5b-4f50-a960-e096fcad9a57
+  rect:
+    serializedVersion: 2
+    x: 203
+    y: 241
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: QuizLuiza
+  m_EditorClassIdentifier: 
+  Characters:
+  - Resposta
+  - Professor akim
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: 4976734069601818481}
+  - {fileID: 6416419861547271242}
+  - {fileID: 3058780073028426499}
+  - {fileID: -91916966954524192}
+  - {fileID: 4107937810741373113}
+  - {fileID: -8752217017925219522}
+  - {fileID: 8537669260213161539}
+  - {fileID: 7589139125830652226}
+  - {fileID: 6869295625955865066}
+  - {fileID: -7057468346849468967}
+  - {fileID: 7945516949281701329}
+  - {fileID: 224815151848694328}
+  - {fileID: -6432215847087400126}
+  - {fileID: -3765904103923379414}
+  - {fileID: -4446674856668066614}
+  - {fileID: 7090008739384381613}
+  - {fileID: -3412256952623636075}
+  - {fileID: 6167156017735291070}
+  - {fileID: 6439453690208837574}
+  - {fileID: -5084146341007550923}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &224815151848694328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 02ce5279-a446-4a72-b144-1b3a8f4147ff
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Que usaria seus poderes m\xE1gicos para transformar suas plumagens em brilhantes
+    tons de azul"
+  children:
+  - 3bb6e92c-2901-4062-9273-5ab42ee8f63e
+  rect:
+    serializedVersion: 2
+    x: 1084
+    y: 372
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &3058780073028426499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: f080c240-01fa-47bf-8153-513f8ce61194
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Estavam com bastante calor e a galinha d'Angola roubou o ventilador
+  children:
+  - b429f7f9-5760-416e-8537-070bb415b9b1
+  rect:
+    serializedVersion: 2
+    x: 200
+    y: 103
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4107937810741373113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 12314dbd-0d5b-4f50-a960-e096fcad9a57
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Qual era a apar\xEAncia do Melro?"
+  children:
+  - 58c95b6c-3f40-4b28-80f8-d4782da4f3d4
+  - 19da9780-3645-4736-a72a-2411f64bf5c0
+  - 04531483-c79a-4e5c-87ec-f3f1c76fec8b
+  rect:
+    serializedVersion: 2
+    x: 435
+    y: 251
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4976734069601818481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b429f7f9-5760-416e-8537-070bb415b9b1
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Por que os p\xE1ssaros estavam brigando?\r"
+  children:
+  - e698b506-d8e0-468d-84aa-cd9bcf67bb25
+  - f080c240-01fa-47bf-8153-513f8ce61194
+  - 04775e93-41e5-4db7-a36d-1d6168719386
+  rect:
+    serializedVersion: 2
+    x: 1
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6167156017735291070
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 962e68a3-bacb-47f7-9dc4-ced3193127f6
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Em um animal magro com uma fraqueza constante
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 1895
+    y: 130
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: end
+--- !u!114 &6416419861547271242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: e698b506-d8e0-468d-84aa-cd9bcf67bb25
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Algu\xE9m comeu o \xFAltimo peda\xE7o de bolo"
+  children:
+  - b429f7f9-5760-416e-8537-070bb415b9b1
+  rect:
+    serializedVersion: 2
+    x: 203
+    y: -1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6439453690208837574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 87963ef5-e075-4a99-932e-f1308ff87dde
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Em um animal gordo com fraqueza constante
+  children:
+  - 6c8f85ef-e5cd-474f-983d-8c5b01977a49
+  rect:
+    serializedVersion: 2
+    x: 1905
+    y: 257
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6869295625955865066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 3bb6e92c-2901-4062-9273-5ab42ee8f63e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "O que o Melro prometeu aos outros p\xE1ssaros?"
+  children:
+  - 788866c8-2539-4ff2-9604-695331878d4a
+  - e13ecc12-7396-4626-a2c6-e79f245ebc70
+  - 02ce5279-a446-4a72-b144-1b3a8f4147ff
+  rect:
+    serializedVersion: 2
+    x: 860
+    y: 236
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &7090008739384381613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 8a3a58e4-7ec7-4056-8250-d62dbce02ef1
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Bem-te-Vi
+  children:
+  - 493b30c1-25c6-4062-bfcc-d209a4c161af
+  rect:
+    serializedVersion: 2
+    x: 1483
+    y: 366
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &7589139125830652226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 04531483-c79a-4e5c-87ec-f3f1c76fec8b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Tinha o bico laranja e penas pretas
+  children:
+  - 3bb6e92c-2901-4062-9273-5ab42ee8f63e
+  rect:
+    serializedVersion: 2
+    x: 644
+    y: 375
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &7945516949281701329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: e13ecc12-7396-4626-a2c6-e79f245ebc70
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Que usaria seus poderes m\xE1gicos para dar doces para todos os p\xE1ssaros"
+  children:
+  - 3bb6e92c-2901-4062-9273-5ab42ee8f63e
+  rect:
+    serializedVersion: 2
+    x: 1076
+    y: 260
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &8537669260213161539
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 19da9780-3645-4736-a72a-2411f64bf5c0
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Tinha o bico amarelo e penas pretas
+  children:
+  - 12314dbd-0d5b-4f50-a960-e096fcad9a57
+  rect:
+    serializedVersion: 2
+    x: 638
+    y: 251
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 

@@ -1,0 +1,343 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7905732188670100625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b40fe57f-3a66-44df-9d2d-4550dcabb2e0
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Muito bem turma! Agora est\xE1 na hora de Luiza vir aqui apresentar seu
+    trabalho! Pode vir Lu!"
+  children:
+  - 2a5ac52c-9bd2-4958-93c6-c7c19c86d8bc
+  rect:
+    serializedVersion: 2
+    x: -2
+    y: -2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3348952670924483810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a5c46558-a5cd-479b-b471-72696f56f548
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Entretanto, nem todos os p\xE1ssaros foram obedientes. Melro ent\xE3o ficou
+    muito bravo e alterou as caracter\xEDsticas das esp\xE9cies das aves."
+  children:
+  - 6f9e3741-2b65-4845-a831-b0c22330d3ec
+  rect:
+    serializedVersion: 2
+    x: 1421
+    y: 1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-165996973969203113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 46e68ae5-63bc-4268-8540-d2186ac99e41
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Essa lenda conta a historia da Galinha da Angola\r"
+  children:
+  - 441bdc96-c7fc-4011-b51e-4178ba35e1f9
+  rect:
+    serializedVersion: 2
+    x: 412
+    y: -1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: HistoriaLuiza
+  m_EditorClassIdentifier: 
+  Characters:
+  - 'Luiza '
+  - Professor akin
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: -7905732188670100625}
+  - {fileID: 4732616888532493384}
+  - {fileID: -165996973969203113}
+  - {fileID: 6677586250184431083}
+  - {fileID: 807211149356866525}
+  - {fileID: 374518340536831847}
+  - {fileID: 6052810353713118983}
+  - {fileID: -3348952670924483810}
+  - {fileID: 1452770864002782512}
+  - {fileID: 8703164258281034209}
+  - {fileID: 1333277224701636406}
+  - {fileID: 4208582188040973740}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &374518340536831847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 0a9ec084-ed7c-49be-9230-ee81c6ce3dba
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "S\xF3 o Melro que tinha uma apar\xEAncia muito bela, com o bico alaranjado
+    e penas negras e a f\xEAmea com tons de preto e pardo claro e a garganta esbranqui\xE7ada
+    podiam impedir, pois todos queriam ser t\xE3o belos quanto eles"
+  children:
+  - b4722a51-09e2-455d-a1f2-17148f0c4263
+  rect:
+    serializedVersion: 2
+    x: 1022
+    y: 2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &807211149356866525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a4963872-e0aa-4d94-a825-97501011993d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "H\xE1 muito tempo, as tribos dos p\xE1ssaros viviam em paz e harmonia, mas
+    tudo isso mudou, quando o sentimento de inveja atacou"
+  children:
+  - 0a9ec084-ed7c-49be-9230-ee81c6ce3dba
+  rect:
+    serializedVersion: 2
+    x: 821
+    y: 2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1333277224701636406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 2457f0f1-2951-4e49-9106-f050f76985d2
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Muito bem apresentado, Luiza! Voc\xEA foi perfeita e amei a refer\xEAncia
+    no in\xEDcio da sua apresenta\xE7\xE3o."
+  children:
+  - b1699028-8527-4715-bd34-5a9ef85dfb23
+  rect:
+    serializedVersion: 2
+    x: 2022
+    y: -2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1452770864002782512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 6f9e3741-2b65-4845-a831-b0c22330d3ec
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Sendo assim, a galinha d'Angola,que foi a mais desobediente, foi transformada
+    em um animal magro com uma fraqueza constante. Seu corpo tornou-se pintado assim
+    como o do leopardo.\r"
+  children:
+  - 8cf87c99-f369-48b0-a66d-fdbd61787268
+  rect:
+    serializedVersion: 2
+    x: 1621
+    y: 1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4208582188040973740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b1699028-8527-4715-bd34-5a9ef85dfb23
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: Muito obrigada professor!
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 2223
+    y: -1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: end
+--- !u!114 &4732616888532493384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 2a5ac52c-9bd2-4958-93c6-c7c19c86d8bc
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "\xC9 pra j\xE1 professor!\r"
+  children:
+  - 46e68ae5-63bc-4268-8540-d2186ac99e41
+  rect:
+    serializedVersion: 2
+    x: 201
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6052810353713118983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b4722a51-09e2-455d-a1f2-17148f0c4263
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "O Melro sabia que era muito bonito e invejado e prometeu aos outros p\xE1ssaros
+    que usaria seus poderem m\xE1gicos para transformar suas plumagens em brilhantes
+    tons de negro se todos eles o obedecessem."
+  children:
+  - a5c46558-a5cd-479b-b471-72696f56f548
+  rect:
+    serializedVersion: 2
+    x: 1221
+    y: 2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6677586250184431083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 441bdc96-c7fc-4011-b51e-4178ba35e1f9
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "V\xE1rias aves est\xE3o reunidas no topo das \xE1rvores cantando em conjunto."
+  children:
+  - a4963872-e0aa-4d94-a825-97501011993d
+  rect:
+    serializedVersion: 2
+    x: 622
+    y: 3
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &8703164258281034209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 8cf87c99-f369-48b0-a66d-fdbd61787268
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Dessa maneira, o leopardo devoraria a galinha d'angola pois n\xE3o suportaria
+    ver outro animal t\xE3o belo como ele. Essa foi a li\xE7\xE3o que a galinha d'Angola
+    recebeu por sua inveja."
+  children:
+  - 2457f0f1-2951-4e49-9106-f050f76985d2
+  rect:
+    serializedVersion: 2
+    x: 1821
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 

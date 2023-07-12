@@ -1,0 +1,508 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7784087229272390398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 45bb5b36-d31a-42c9-b6a7-067498f83a20
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Mas antes que conseguissem puxar o sat\xE9lite, a pilha de macacos desmoronou
+    e todos ca\xEDram, menos o macaquinho, que continuou agarrado \xE0 Lua."
+  children:
+  - 4e9eeed9-081a-4eaf-ad50-e2e1cb7a0aed
+  rect:
+    serializedVersion: 2
+    x: 1003
+    y: -2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-7418439215599065742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: f28d9d8e-cbc3-41b0-b40e-61c44ffa0ab9
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 4
+  text: "N\xE3oooo!!!!"
+  children:
+  - 6babc92f-d781-433c-a762-2bc630006fc2
+  rect:
+    serializedVersion: 2
+    x: 2601
+    y: -4
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-6153331702370478823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: f93c2c12-1d72-4860-b7f2-a77846352dec
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: Sua vez agora Marcelo
+  children:
+  - 58cb4235-ab98-4ec7-bc2a-6691ff4ba14a
+  rect:
+    serializedVersion: 2
+    x: -4
+    y: 2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-4171661875223295555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 5fb293c0-0874-4f26-bfb7-ec742042900b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "A menina pegou o instrumento e correu para entregar \xE0s pessoas de sua
+    fam\xEDlia, contando o que havia acontecido. "
+  children:
+  - 838cb6c0-aade-4e5e-a1fe-90d052f513de
+  rect:
+    serializedVersion: 2
+    x: 3207
+    y: 1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3291430503273705465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 55b36f13-82e3-4eca-87cc-d5a049b150bf
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Seguinte os macaquinhos de nariz branco da regi\xE3o quiseram um dia trazer
+    a Lua para perto da Terra mas eles n\xE3o tinham ideia de como fazer isso."
+  children:
+  - 02f3d646-0ef8-42ec-b55c-066e8ef4cb21
+  rect:
+    serializedVersion: 2
+    x: 402
+    y: -1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3065759934711419236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 02f3d646-0ef8-42ec-b55c-066e8ef4cb21
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "At\xE9 que o macaco menor sugeriu que uns subissem nos ombros dos outros
+    a fim de alcan\xE7ar a Lua."
+  children:
+  - 21b0f567-e8ee-4d0f-8986-e62fa1d0b2c4
+  rect:
+    serializedVersion: 2
+    x: 601
+    y: -1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-2406879096233674791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 4e9eeed9-081a-4eaf-ad50-e2e1cb7a0aed
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "O tempo passou e uma amizade ent\xE3o cresceu e a Lua presenteou o pequeno
+    animal com um maravilhoso tambor branco, que ele logo aprendeu a tocar."
+  children:
+  - 50bef972-08ee-49cc-a2f0-c479e773dddb
+  rect:
+    serializedVersion: 2
+    x: 1203
+    y: -2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: HistoriaMarcelo
+  m_EditorClassIdentifier: 
+  Characters:
+  - Marcelo
+  - 'Professor akin '
+  - Lua
+  - 'Macaquinho '
+  - 'A turma '
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: -6153331702370478823}
+  - {fileID: 276768504925829400}
+  - {fileID: -3291430503273705465}
+  - {fileID: -3065759934711419236}
+  - {fileID: 2851290946261837827}
+  - {fileID: -7784087229272390398}
+  - {fileID: -2406879096233674791}
+  - {fileID: 1769538077163388050}
+  - {fileID: 5639613196388190454}
+  - {fileID: 1258384193497004190}
+  - {fileID: 1037484054043537202}
+  - {fileID: 5508499712109032126}
+  - {fileID: 8816004244072031798}
+  - {fileID: -7418439215599065742}
+  - {fileID: 7738593109319843363}
+  - {fileID: 6693853242856715486}
+  - {fileID: -4171661875223295555}
+  - {fileID: 1068410450220821849}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &276768504925829400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 58cb4235-ab98-4ec7-bc2a-6691ff4ba14a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "BOM DIA PESSOAL, T\xF4 aqui pra mostrar o meu trabalho sobre os tambores!"
+  children:
+  - 55b36f13-82e3-4eca-87cc-d5a049b150bf
+  rect:
+    serializedVersion: 2
+    x: 202
+    y: -1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1037484054043537202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: bb181226-56e7-4b0e-9ad1-b3c81df59901
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: "Tudo bem ent\xE3o, tenho uma corda lunar pra levar voc\xEA de volta, mas
+    vou precisar da corda de volta, okay? N\xE3o toque o tambor enquanto n\xE3o estiver
+    em terra firme. Toque apenas quando chegar l\xE1 embaixo, assim saberei que chegou
+    e poderei cortar a corda"
+  children:
+  - 1a1a589e-2e55-4a7d-be18-f5e31b8c4c21
+  rect:
+    serializedVersion: 2
+    x: 2001
+    y: -4
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1068410450220821849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 838cb6c0-aade-4e5e-a1fe-90d052f513de
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Todos adoraram o tambor e come\xE7aram a toc\xE1-lo. Desde ent\xE3o, o povo
+    africano produz seus pr\xF3prios tambores e sempre que poss\xEDvel toca e dan\xE7a
+    ao som deles.\r"
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 3407
+    y: 1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: end
+--- !u!114 &1258384193497004190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: c596f118-9316-4cbc-a06b-0109edde151d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 3
+  text: "Eu sei dona lua, mas eu amo minha fam\xEDlia e tenho saudade deles"
+  children:
+  - bb181226-56e7-4b0e-9ad1-b3c81df59901
+  rect:
+    serializedVersion: 2
+    x: 1800
+    y: -3
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1769538077163388050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 50bef972-08ee-49cc-a2f0-c479e773dddb
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "O macaquinho ficou por muito tempo morando na Lua, mas um dia come\xE7ou
+    a sentir saudades da Terra, de seus amigos e da natureza. Ele ent\xE3o pediu
+    \xE0 sua amiga que o ajudasse a retornar para sua casa."
+  children:
+  - c9c61a9e-8149-4a74-a23c-995ec28be361
+  rect:
+    serializedVersion: 2
+    x: 1403
+    y: -3
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &2851290946261837827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 21b0f567-e8ee-4d0f-8986-e62fa1d0b2c4
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "O grupo de macacos colocou o plano em a\xE7\xE3o e o macaquinho menor foi
+    o \xFAltimo a subir, conseguindo chegar ao c\xE9u e agarrando-se \xE0 Lua. "
+  children:
+  - 45bb5b36-d31a-42c9-b6a7-067498f83a20
+  rect:
+    serializedVersion: 2
+    x: 802
+    y: -1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5508499712109032126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 1a1a589e-2e55-4a7d-be18-f5e31b8c4c21
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "O macaco concordou. Ele sentou em seu tambor e foi amarrado a uma corda,
+    que come\xE7ou o processo de descida. Enquanto descia, o macaquinho olhava seu
+    tambor e surgiu uma vontade irresist\xEDvel de toc\xE1-lo."
+  children:
+  - 1a4926b3-8330-4a91-85cf-aaa643449b1b
+  rect:
+    serializedVersion: 2
+    x: 2201
+    y: -4
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5639613196388190454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: c9c61a9e-8149-4a74-a23c-995ec28be361
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: "Mas por que voc\xEA quer voltar? N\xE3o est\xE1 feliz aqui com o tamborzinho
+    que eu te dei?"
+  children:
+  - c596f118-9316-4cbc-a06b-0109edde151d
+  rect:
+    serializedVersion: 2
+    x: 1603
+    y: -3
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6693853242856715486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 934fe754-0aca-4241-ab8e-cff7f0b16e4e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 3
+  text: "Menina, isso \xE9 um tambor. Por favor, entregue ao povo de seu pa\xEDs."
+  children:
+  - 5fb293c0-0874-4f26-bfb7-ec742042900b
+  rect:
+    serializedVersion: 2
+    x: 3008
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &7738593109319843363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 6babc92f-d781-433c-a762-2bc630006fc2
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: Mas antes, uma menina que passava por perto viu a queda.
+  children:
+  - 934fe754-0aca-4241-ab8e-cff7f0b16e4e
+  rect:
+    serializedVersion: 2
+    x: 2801
+    y: -4
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &8816004244072031798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 1a4926b3-8330-4a91-85cf-aaa643449b1b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Ele come\xE7ou a tocar bem baixinho, para que a Lua n\xE3o ouvisse. Mas,
+    mesmo assim, a Lua escutou e cortou a corda conforme o combinado. O macaco come\xE7ou
+    a cair e ao chegar ao ch\xE3o, n\xE3o resistiu e morreu."
+  children:
+  - f28d9d8e-cbc3-41b0-b40e-61c44ffa0ab9
+  rect:
+    serializedVersion: 2
+    x: 2401
+    y: -4
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 

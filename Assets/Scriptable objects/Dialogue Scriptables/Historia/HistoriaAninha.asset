@@ -1,0 +1,615 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8353787851732264414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: e0625aaf-9b43-4ac8-b661-d9f2162d4a3b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: SIIIIIIIIIIMMMMMMMM!
+  children:
+  - ee80fdab-5918-4f6e-b39e-3dabacb8f94b
+  rect:
+    serializedVersion: 2
+    x: 3641
+    y: 16
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-8179205446055489011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 54ff701c-0c98-4d66-8c5f-90126e155533
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: Aaaaaahhhhh!
+  children:
+  - ee3bcc8c-127c-484d-8964-c987f424199c
+  rect:
+    serializedVersion: 2
+    x: 631
+    y: 124
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-8150935332646160167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 2b98459f-c9d0-49b7-ba41-17a36c59379c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 4
+  text: "Muito obrigada Sapinho os seus tamb\xE9m s\xE3o lindos! Estou aqui apenas
+    tomando um solzinho e voc\xEA?\r"
+  children:
+  - e44887f5-0a58-47c4-8945-1894ccbbcfb5
+  rect:
+    serializedVersion: 2
+    x: 1208
+    y: 10
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-7235789686350921633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: c66154ff-6f78-4cc4-8e53-2dfc2837e9cd
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Quando o sapo encontrou sua m\xE3e, contou o que tinha acontecido, que conheceu
+    uma cobrinha e ficaram amigos. Sua m\xE3e n\xE3o gostou e falou:\r"
+  children:
+  - 41c247a3-7b68-426d-84cd-d3c6a84a06c8
+  rect:
+    serializedVersion: 2
+    x: 2437
+    y: 20
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-6702347718569538281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 44d1d99c-f00a-477a-8af7-5cabf604aa97
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "A cobra ensinou o sapo a rastejar e subir nas \xE1rvores e o sapo ensinou
+    a cobra a pular. Eles se divertiram muito, mas j\xE1 estava ficando tarde e tinham
+    que voltar para casa para que seus pais n\xE3o brigassem, mas eles prometeram
+    se encontrar no dia seguinte!\r\nMas a\xED\u2026\r"
+  children:
+  - f48a91a8-5dc2-447e-a3aa-560fcd8a6d86
+  rect:
+    serializedVersion: 2
+    x: 1816
+    y: 16
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-6469085001021638609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b2b66368-826b-42d1-9806-191a2d9c6359
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "tudo bem aninha,relaxe e beba um pouco de \xE1gua,vou chamar outro aluno
+    e voc\xEA apresenta em seguida."
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 302
+    y: 156
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: back
+--- !u!114 &-2996978927583397650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 0b5e78f9-3306-4c89-acb7-9863efc4f92d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Agora est\xE1 na vez de Ana Clara contar a hist\xF3ria que ela aprendeu!
+    Pode vir aqui Aninha! "
+  children:
+  - 5a80d231-a57e-42e5-87e9-0cbba42989b8
+  rect:
+    serializedVersion: 2
+    x: 13
+    y: 181
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-2476466751992700203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a2ead22f-2214-4be9-ae8b-7fcaaeec8a7d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "A cobrinha quando chegou em casa mostrou \xE0 sua m\xE3e que sabia pular
+    e disse que foi o sapo que a ensinou. Sua m\xE3e tamb\xE9m n\xE3o gostou e disse:"
+  children:
+  - d6a1dbdb-07fa-4f62-b4d6-adf6cec4bb74
+  rect:
+    serializedVersion: 2
+    x: 2848
+    y: 17
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-1121887479156999425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 68652d15-b7ac-4c47-b872-07033cd78feb
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 4
+  text: "Mais \xE9 claro! Eu adoraria brincar contigo!\r"
+  children:
+  - 44d1d99c-f00a-477a-8af7-5cabf604aa97
+  rect:
+    serializedVersion: 2
+    x: 1613
+    y: 15
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-1010027230437365243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 3b03f451-a2d1-4d54-98ba-c3ab45ddcfff
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Parab\xE9ns pela apresenta\xE7\xE3o Aninha, voc\xEA se saiu muito bem, n\xE3o
+    \xE9 turma?"
+  children:
+  - e0625aaf-9b43-4ac8-b661-d9f2162d4a3b
+  rect:
+    serializedVersion: 2
+    x: 3447
+    y: 19
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: HistoriaAninha
+  m_EditorClassIdentifier: 
+  Characters:
+  - Professor akin
+  - Aninha
+  - A turma
+  - Sapo
+  - Cobrinha
+  - "M\xE3e do sapo"
+  - "M\xE3e da cobrinha"
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: -2996978927583397650}
+  - {fileID: 1901338437058006110}
+  - {fileID: 4448298556991645435}
+  - {fileID: -8179205446055489011}
+  - {fileID: 5238754698245261537}
+  - {fileID: 4259691322228125078}
+  - {fileID: -8150935332646160167}
+  - {fileID: 4075763423049451809}
+  - {fileID: -1121887479156999425}
+  - {fileID: -6702347718569538281}
+  - {fileID: 1008751094278080037}
+  - {fileID: 5221343530064299799}
+  - {fileID: -7235789686350921633}
+  - {fileID: 8113586132354021261}
+  - {fileID: -2476466751992700203}
+  - {fileID: 8465082769280902436}
+  - {fileID: 6060251580688671910}
+  - {fileID: -6469085001021638609}
+  - {fileID: -1010027230437365243}
+  - {fileID: -8353787851732264414}
+  - {fileID: 3674763288374466414}
+  - {fileID: 2159343216302549117}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &1008751094278080037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: f48a91a8-5dc2-447e-a3aa-560fcd8a6d86
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: A cobra comeu o sapo!
+  children:
+  - ae34abb1-2f06-44df-be79-00693b37ba11
+  rect:
+    serializedVersion: 2
+    x: 2029
+    y: 18
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1901338437058006110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: d57f9df1-d851-4f63-a479-7c985cf07bd5
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Calma Aninha, tenho certeza que voc\xEA estudou muito bem sua hist\xF3ria,
+    voc\xEA vai conseguir apresentar!\r"
+  children:
+  - 8fa685ba-5951-48ea-ac9a-b988a37f62fb
+  rect:
+    serializedVersion: 2
+    x: 282
+    y: 21
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &2159343216302549117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 5a80d231-a57e-42e5-87e9-0cbba42989b8
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "S\xE9rio? J\xE1 \xE9 minha vez? Outra pessoa n\xE3o pode ir primeiro? aaaaaaaaaaaaaaa\r"
+  children:
+  - d57f9df1-d851-4f63-a479-7c985cf07bd5
+  - b2b66368-826b-42d1-9806-191a2d9c6359
+  rect:
+    serializedVersion: 2
+    x: 75
+    y: 23
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &3674763288374466414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: ee80fdab-5918-4f6e-b39e-3dabacb8f94b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "O-obrigada gente (Com o rosto corado mas com um sorriso no rosto)\r"
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 3694
+    y: 157
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: end
+--- !u!114 &4075763423049451809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: e44887f5-0a58-47c4-8945-1894ccbbcfb5
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 3
+  text: "Estava apenas andando por aqui, voc\xEA quer brincar comigo?\r"
+  children:
+  - 68652d15-b7ac-4c47-b872-07033cd78feb
+  rect:
+    serializedVersion: 2
+    x: 1410
+    y: 10
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4259691322228125078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b09d51dc-778e-4b53-a323-e8062bcccc4e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 3
+  text: "Bom dia Cobrinha, que \xF3culos lindo voc\xEA tem! O que voc\xEA faz aqui
+    pelo ch\xE3o?\r"
+  children:
+  - 2b98459f-c9d0-49b7-ba41-17a36c59379c
+  rect:
+    serializedVersion: 2
+    x: 1001
+    y: 9
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4448298556991645435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 8fa685ba-5951-48ea-ac9a-b988a37f62fb
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Err\u2026 Ent\xE3o, essa hist\xF3ria come\xE7a com um sapinho feliz andando
+    pelo mato, a maioria dos sapos s\xE3o bem feios, mas esse era realmente muito
+    lindo porque ele tamb\xE9m tinha \xF3culos! Ele achou algo estranho no ch\xE3o
+    e acreditem se quiser, era uma cobra!\r"
+  children:
+  - 54ff701c-0c98-4d66-8c5f-90126e155533
+  rect:
+    serializedVersion: 2
+    x: 494
+    y: 22
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5221343530064299799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: ae34abb1-2f06-44df-be79-00693b37ba11
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Deixem a Aninha terminar turma, o que aconteceu??\r"
+  children:
+  - c66154ff-6f78-4cc4-8e53-2dfc2837e9cd
+  rect:
+    serializedVersion: 2
+    x: 2237
+    y: 20
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5238754698245261537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: ee3bcc8c-127c-484d-8964-c987f424199c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Mas esse Sapinho n\xE3o teve medo da cobra, pois ela tamb\xE9m usava \xF3culos!\r"
+  children:
+  - b09d51dc-778e-4b53-a323-e8062bcccc4e
+  rect:
+    serializedVersion: 2
+    x: 847
+    y: 121
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6060251580688671910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 32f102a8-2bf3-4302-a296-5d815cd67fde
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "No dia seguinte quando eles se encontraram, a Cobrinha pensou em comer o
+    sapo, mas ela se lembrou das brincadeiras e elogios que tiveram e acabou deixando
+    pra l\xE1. Eles n\xE3o brincaram de novo, mas sempre que v\xE3o pegar sol eles
+    pensam sobre o dia que foram amigos! \r"
+  children:
+  - 3b03f451-a2d1-4d54-98ba-c3ab45ddcfff
+  rect:
+    serializedVersion: 2
+    x: 3248
+    y: 19
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &8113586132354021261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 41c247a3-7b68-426d-84cd-d3c6a84a06c8
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 5
+  text: "Voc\xEA devia saber que a fam\xEDlia da cobra n\xE3o \xE9 legal. Eles s\xE3o
+    venenosos! N\xE3o quero mais que brinque com cobras e nem rasteje por a\xED!"
+  children:
+  - a2ead22f-2214-4be9-ae8b-7fcaaeec8a7d
+  rect:
+    serializedVersion: 2
+    x: 2645
+    y: 17
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &8465082769280902436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: d6a1dbdb-07fa-4f62-b4d6-adf6cec4bb74
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 6
+  text: "N\xF3s cobras n\xE3o temos amizade com sapos, eles servem apenas como comida.
+    N\xE3o quero que brinque com o sapo. E pare de pular!"
+  children:
+  - 32f102a8-2bf3-4302-a296-5d815cd67fde
+  rect:
+    serializedVersion: 2
+    x: 3051
+    y: 20
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 

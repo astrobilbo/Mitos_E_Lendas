@@ -1,0 +1,547 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7836370494873188851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: ed104b62-b497-4d1a-ad02-1f59abd6957b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: O que o rinoceronte esqueceu?
+  children:
+  - 81bed96e-9f32-4505-a2b1-453d9aa7550d
+  - 61faa413-0d03-417a-9a6c-09be2d88dad2
+  - 558e2812-3988-4ee2-8020-b6988d68373a
+  rect:
+    serializedVersion: 2
+    x: 1228
+    y: 40
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-7795257806534489139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 81bed96e-9f32-4505-a2b1-453d9aa7550d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: De comer
+  children:
+  - ed104b62-b497-4d1a-ad02-1f59abd6957b
+  rect:
+    serializedVersion: 2
+    x: 1426
+    y: 42
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-5928645077429806148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: f0dcf313-a4bb-4b17-a37a-74f1fa239f8f
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Sopa
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 607
+    y: 3
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-5188820271024025587
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 1ad2d21e-569d-4d0d-88ad-139adad57dde
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Girafa e rinoceronte
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 1912
+    y: 64
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: end
+--- !u!114 &-4699969579732423791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 69fecba7-e112-4be6-ad30-3bca01e7e4da
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: Qual o nome da lenda?
+  children:
+  - 1ad2d21e-569d-4d0d-88ad-139adad57dde
+  - 4ad59689-c173-4c63-9522-d4192d67b03e
+  - 24465413-0f7a-4203-9e09-3b87de65d3ff
+  rect:
+    serializedVersion: 2
+    x: 1691
+    y: 151
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-4274054688024828225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 1186a1f5-fc44-4f4f-8241-2e9ebe30397f
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: " Po\xE7\xE3o"
+  children:
+  - 91aba532-cff0-4981-838d-6c3e0b10259d
+  rect:
+    serializedVersion: 2
+    x: 589
+    y: 217
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3775026044558823880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 83f9534a-ca34-4cb3-b716-83920081b73c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Caldo fortificante
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 602
+    y: 103
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-2726489046025864127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 0b8f34bb-df23-4f7f-acc4-49aa86e972dd
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: Qual o nome da planta que permaneceu com folhagens verdes?
+  children:
+  - 700e0762-b132-454a-a17c-e73e4edf5454
+  - f504956f-012a-451f-aeb9-b22461893e6e
+  - d27f366c-b397-4326-af9d-a79327b7dd0c
+  rect:
+    serializedVersion: 2
+    x: 10
+    y: -3
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-1604729175402481474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: d27f366c-b397-4326-af9d-a79327b7dd0c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Videira
+  children:
+  - 0b8f34bb-df23-4f7f-acc4-49aa86e972dd
+  rect:
+    serializedVersion: 2
+    x: 172
+    y: 196
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-761331964739965031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 24465413-0f7a-4203-9e09-3b87de65d3ff
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Ac\xE1cias e plantas rasteiras"
+  children:
+  - 69fecba7-e112-4be6-ad30-3bca01e7e4da
+  rect:
+    serializedVersion: 2
+    x: 1896
+    y: 252
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: QuizKenta
+  m_EditorClassIdentifier: 
+  Characters:
+  - Resposta
+  - Professor akim
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: -2726489046025864127}
+  - {fileID: 4968318754319667802}
+  - {fileID: 3592474109924500566}
+  - {fileID: -1604729175402481474}
+  - {fileID: 6896483379534563558}
+  - {fileID: -5928645077429806148}
+  - {fileID: -3775026044558823880}
+  - {fileID: -4274054688024828225}
+  - {fileID: 5203309113959084838}
+  - {fileID: 4491327966562319738}
+  - {fileID: 5502604068492409823}
+  - {fileID: 8693669175551162616}
+  - {fileID: -7836370494873188851}
+  - {fileID: -7795257806534489139}
+  - {fileID: 4047426964511643424}
+  - {fileID: 4198940454826416779}
+  - {fileID: -4699969579732423791}
+  - {fileID: -5188820271024025587}
+  - {fileID: 1609115423565329810}
+  - {fileID: -761331964739965031}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &1609115423565329810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 4ad59689-c173-4c63-9522-d4192d67b03e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Gargalo e consoante
+  children:
+  - 69fecba7-e112-4be6-ad30-3bca01e7e4da
+  rect:
+    serializedVersion: 2
+    x: 1896
+    y: 156
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &3592474109924500566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: f504956f-012a-451f-aeb9-b22461893e6e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Goiabeira
+  children:
+  - 0b8f34bb-df23-4f7f-acc4-49aa86e972dd
+  rect:
+    serializedVersion: 2
+    x: 192
+    y: 97
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4047426964511643424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 61faa413-0d03-417a-9a6c-09be2d88dad2
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Ir a casa do feiticeiro
+  children:
+  - 69fecba7-e112-4be6-ad30-3bca01e7e4da
+  rect:
+    serializedVersion: 2
+    x: 1469
+    y: 139
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4198940454826416779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 558e2812-3988-4ee2-8020-b6988d68373a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Pensar sobre a vida
+  children:
+  - ed104b62-b497-4d1a-ad02-1f59abd6957b
+  rect:
+    serializedVersion: 2
+    x: 1466
+    y: 261
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4491327966562319738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 8875e789-cc4b-4d6d-8fb9-79a6aa4c98bd
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Rinoceronte
+  children:
+  - ed104b62-b497-4d1a-ad02-1f59abd6957b
+  rect:
+    serializedVersion: 2
+    x: 1025
+    y: 41
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4968318754319667802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 700e0762-b132-454a-a17c-e73e4edf5454
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: " Ac\xE1cia"
+  children:
+  - 98b26915-06d7-45c4-8fc7-219d6f940d57
+  rect:
+    serializedVersion: 2
+    x: 202
+    y: -2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5203309113959084838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 91aba532-cff0-4981-838d-6c3e0b10259d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: Qual animal foi junto com a girafa em busca do feiticeiro?
+  children:
+  - 8875e789-cc4b-4d6d-8fb9-79a6aa4c98bd
+  - 68d528ca-d7e9-4a67-80ce-c99cb0010cd5
+  - 7ed20534-5a9d-45aa-9a06-f2ff2ab3535d
+  rect:
+    serializedVersion: 2
+    x: 800
+    y: 167
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5502604068492409823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 68d528ca-d7e9-4a67-80ce-c99cb0010cd5
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Gato
+  children:
+  - 91aba532-cff0-4981-838d-6c3e0b10259d
+  rect:
+    serializedVersion: 2
+    x: 1025
+    y: 174
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6896483379534563558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 98b26915-06d7-45c4-8fc7-219d6f940d57
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "O que o feiticeiro deu \xE0 girafa?"
+  children:
+  - f0dcf313-a4bb-4b17-a37a-74f1fa239f8f
+  - 83f9534a-ca34-4cb3-b716-83920081b73c
+  - 1186a1f5-fc44-4f4f-8241-2e9ebe30397f
+  rect:
+    serializedVersion: 2
+    x: 407
+    y: 3
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &8693669175551162616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 7ed20534-5a9d-45aa-9a06-f2ff2ab3535d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Lagarto
+  children:
+  - 91aba532-cff0-4981-838d-6c3e0b10259d
+  rect:
+    serializedVersion: 2
+    x: 1015
+    y: 275
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 

@@ -1,0 +1,349 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5327057409537840754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: eedf0303-8bd3-4212-aa29-71305f35864c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: "Mas as crian\xE7as n\xE3o eram burras n\xE3o viu Fessor? Elas foram primeiro
+    ver com seus pais pra ver se a historia que o homem disse era verdade, afinal,
+    n\xE3o se pode confiar em estranhos"
+  children:
+  - 579bbba9-c692-4b47-bdb3-970247190cdf
+  rect:
+    serializedVersion: 2
+    x: 442
+    y: 19
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-4366286671116543943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 92726600-2b91-44e1-8f03-cd37e57e99cb
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Palmas para o Lukinhas gente, ele est\xE1 de parab\xE9ns, a hist\xF3ria
+    est\xE1 perfeita! Agora n\xF3s vamos para as nossas perguntas!"
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 2318
+    y: 37
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: end
+--- !u!114 &-2189728883101408285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 4bd19d10-2cd4-4ee7-a56b-69445e7fcfc5
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Bom dia crian\xE7as, tudo bem com voc\xEAs? Eu sou um estudioso chamado
+    Antrop\xF3logo, conversei com seus pais e quero fazer um estudo com voc\xEAs
+    sobre \u201CValores Fundamentais\u201D e para isso, queria fazer uma brincadeira
+    com voc\xEAs, voc\xEAs aceitam?\r"
+  children:
+  - eedf0303-8bd3-4212-aa29-71305f35864c
+  rect:
+    serializedVersion: 2
+    x: 235
+    y: 17
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: HistoriaLukinhas
+  m_EditorClassIdentifier: 
+  Characters:
+  - 'Professor akin '
+  - 'O senhor  '
+  - 'Lukinhas '
+  - 'A turma '
+  - "As crian\xE7as "
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: 7509547326201795370}
+  - {fileID: -2189728883101408285}
+  - {fileID: -5327057409537840754}
+  - {fileID: 2295772224347887004}
+  - {fileID: 2626357394111794202}
+  - {fileID: 5906540650159378035}
+  - {fileID: 722902686363695182}
+  - {fileID: 2256179642985372547}
+  - {fileID: 1552966841879317497}
+  - {fileID: 3892238750202903714}
+  - {fileID: 2094833605664284887}
+  - {fileID: -4366286671116543943}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &722902686363695182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 648c2c2d-ab27-437e-b18b-2eadb177480f
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 3
+  text: "UAU! Deve ter sido uma briga danada pra pegar esse tant\xE3o de doces!\r"
+  children:
+  - c7c8bb82-f642-4938-a714-f52ca72cc045
+  rect:
+    serializedVersion: 2
+    x: 1276
+    y: 27
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1552966841879317497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 09b5a178-73df-4bba-abc4-d6512ce9d937
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Por que voc\xEAs foram juntas quando apenas uma crian\xE7a poderia ter pego
+    todos os doces pra si?"
+  children:
+  - 6bca65ef-2d3c-4cbb-b996-26a0f72a25df
+  rect:
+    serializedVersion: 2
+    x: 1698
+    y: 28
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &2094833605664284887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 5f50467b-8c84-4c43-b66b-02fc8a5dd867
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: "Ent\xE3o gente,  Ubuntu \xE9 uma antiga palavra africana que na cultura
+    Zulu e Xhosa significa \u2018Sou quem sou porque somos todos n\xF3s\u2019"
+  children:
+  - 92726600-2b91-44e1-8f03-cd37e57e99cb
+  rect:
+    serializedVersion: 2
+    x: 2100
+    y: 33
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &2256179642985372547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: c7c8bb82-f642-4938-a714-f52ca72cc045
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: "HaHaHaHa \xE9 a\xED que voc\xEAs se enganam! Elas deram as m\xE3os e foram
+    todas juntas para pegar os doces, o antrop\xF3logo tamb\xE9m ficou surpreso!
+    estavam todas juntas para comer as balas."
+  children:
+  - 09b5a178-73df-4bba-abc4-d6512ce9d937
+  rect:
+    serializedVersion: 2
+    x: 1488
+    y: 30
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &2295772224347887004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 579bbba9-c692-4b47-bdb3-970247190cdf
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Muito bem Lukinhas, pode continuar sua hist\xF3ria, estamos todos gostando!"
+  children:
+  - 2759c067-cb32-425b-a079-04d5b50ab214
+  rect:
+    serializedVersion: 2
+    x: 652
+    y: 26
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &2626357394111794202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 2759c067-cb32-425b-a079-04d5b50ab214
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: "A\xED depois que as crian\xE7as viram que a hist\xF3ria que o homem disse
+    era verdade, elas voltaram animadas para o senhor Antrop\xF3logo"
+  children:
+  - a9f10e35-9101-4710-bb78-d11491338015
+  rect:
+    serializedVersion: 2
+    x: 868
+    y: 24
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &3892238750202903714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 6bca65ef-2d3c-4cbb-b996-26a0f72a25df
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 4
+  text: "Ubuntu, como um de n\xF3s poderia ficar feliz se o resto estivesse triste?"
+  children:
+  - 5f50467b-8c84-4c43-b66b-02fc8a5dd867
+  rect:
+    serializedVersion: 2
+    x: 1902
+    y: 36
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5906540650159378035
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a9f10e35-9101-4710-bb78-d11491338015
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Pronto crian\xE7as, a brincadeira \xE9 a seguinte, est\xE3o vendo aquela
+    \xE1rvore l\xE1 longe? Eu coloquei um cesto cheio de doces embaixo dela, o primeiro
+    a chegar na \xE1rvore fica com todas as balas!"
+  children:
+  - 648c2c2d-ab27-437e-b18b-2eadb177480f
+  rect:
+    serializedVersion: 2
+    x: 1074
+    y: 26
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &7509547326201795370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 2f6eac49-2fc2-461b-ad91-8087b7046816
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: "Opa! Ent\xE3o gente, essa hist\xF3ria come\xE7a com seis crian\xE7as jogando
+    baba, c\xEAs sabem como \xE9 n\xE9? Todo mundo na maior resenha se divertindo.
+    Mas a\xED um senhor aparece\u2026\r"
+  children:
+  - 4bd19d10-2cd4-4ee7-a56b-69445e7fcfc5
+  rect:
+    serializedVersion: 2
+    x: 3
+    y: 18
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 

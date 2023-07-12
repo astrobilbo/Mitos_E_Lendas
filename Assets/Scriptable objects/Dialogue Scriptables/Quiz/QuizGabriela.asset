@@ -1,0 +1,549 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8704144641214584899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: cd0e4e74-5c9a-4caa-819c-a09fcf2e6c71
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: ' Camelo'
+  children:
+  - a9bf14d0-8e2a-4f7a-afad-a9d59e38ac49
+  rect:
+    serializedVersion: 2
+    x: 1419
+    y: 93
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-7931450940211790210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a0daa228-22af-407f-8922-151bdbd63fbb
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Gritar
+  children:
+  - cf01862c-f362-4066-9acc-a931ba79a33f
+  rect:
+    serializedVersion: 2
+    x: 1017
+    y: 203
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3421205401992922192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 32b9c06f-6007-4788-b692-160e80c6123d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Que tipo de animal \xE9 o Zorol?"
+  children:
+  - a4eeb881-ea53-4950-a67a-da488496e00b
+  - cd0e4e74-5c9a-4caa-819c-a09fcf2e6c71
+  - fe9d426c-672c-4aec-a632-76f01958909a
+  rect:
+    serializedVersion: 2
+    x: 1218
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3344677577350654621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: f9abc478-f251-4aba-aa11-0b5c3a0226a0
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: O que a raposa gostava de comer?
+  children:
+  - b3fe79b5-a7b2-49a9-832b-a89113a9e82c
+  - c76b2e5e-ec30-403e-9e2c-79915e279550
+  - 1d738526-68ce-4678-ba0e-8faaba2447e4
+  rect:
+    serializedVersion: 2
+    x: 402
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-870843128878914574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 232a925a-827c-40e6-a573-5dcf607075a8
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Margeando o rio
+  children:
+  - a9bf14d0-8e2a-4f7a-afad-a9d59e38ac49
+  rect:
+    serializedVersion: 2
+    x: 1878
+    y: 85
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-691123249889741345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: fe9d426c-672c-4aec-a632-76f01958909a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Coelho\r"
+  children:
+  - 32b9c06f-6007-4788-b692-160e80c6123d
+  rect:
+    serializedVersion: 2
+    x: 1422
+    y: 176
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-421048114413905799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 5b33c413-02c6-4b35-b9c8-ceaaa715d3b6
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: A raposa e o camelo
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 1878
+    y: -12
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: end
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: QuizGabriela
+  m_EditorClassIdentifier: 
+  Characters:
+  - Resposta
+  - Professor akim
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: 6205852820202517493}
+  - {fileID: 5337377733679740702}
+  - {fileID: 2297084534938175410}
+  - {fileID: -3344677577350654621}
+  - {fileID: 9066466322262520237}
+  - {fileID: 8349125319602074156}
+  - {fileID: 6908935812946825231}
+  - {fileID: 9075070634733516346}
+  - {fileID: 3433167510665236121}
+  - {fileID: 3672288816080465213}
+  - {fileID: 4059772688126705813}
+  - {fileID: -7931450940211790210}
+  - {fileID: -3421205401992922192}
+  - {fileID: 1285504858573212278}
+  - {fileID: -8704144641214584899}
+  - {fileID: -691123249889741345}
+  - {fileID: 4582144655407380768}
+  - {fileID: -421048114413905799}
+  - {fileID: -870843128878914574}
+  - {fileID: 8876182198699188672}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &1285504858573212278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a4eeb881-ea53-4950-a67a-da488496e00b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Cigarra
+  children:
+  - 32b9c06f-6007-4788-b692-160e80c6123d
+  rect:
+    serializedVersion: 2
+    x: 1419
+    y: -4
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &2297084534938175410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 842b5d61-80bb-4ed4-96bf-c1b5becec5e0
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Aun
+  children:
+  - 93f539d5-7b09-4956-8aeb-fac939cfe783
+  rect:
+    serializedVersion: 2
+    x: 199
+    y: 93
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &3433167510665236121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: cf01862c-f362-4066-9acc-a931ba79a33f
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "O que a raposa n\xE3o sabia?"
+  children:
+  - 12dd6e5c-6e27-4c13-b9f6-eac819810c04
+  - a788a73a-d058-4ee1-b676-13084f00f801
+  - a0daa228-22af-407f-8922-151bdbd63fbb
+  rect:
+    serializedVersion: 2
+    x: 801
+    y: 95
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &3672288816080465213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 12dd6e5c-6e27-4c13-b9f6-eac819810c04
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Nadar
+  children:
+  - 32b9c06f-6007-4788-b692-160e80c6123d
+  rect:
+    serializedVersion: 2
+    x: 1018
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4059772688126705813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a788a73a-d058-4ee1-b676-13084f00f801
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Correr
+  children:
+  - cf01862c-f362-4066-9acc-a931ba79a33f
+  rect:
+    serializedVersion: 2
+    x: 1015
+    y: 93
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4582144655407380768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a9bf14d0-8e2a-4f7a-afad-a9d59e38ac49
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: Qual o nome da lenda?
+  children:
+  - 5b33c413-02c6-4b35-b9c8-ceaaa715d3b6
+  - 232a925a-827c-40e6-a573-5dcf607075a8
+  - cf026d68-8952-43e1-a9a7-aa1661259946
+  rect:
+    serializedVersion: 2
+    x: 1667
+    y: 80
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5337377733679740702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: beee2c37-1526-4cf8-80c9-441134fbd15e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: ' Awan'
+  children:
+  - f9abc478-f251-4aba-aa11-0b5c3a0226a0
+  rect:
+    serializedVersion: 2
+    x: 200
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6205852820202517493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 93f539d5-7b09-4956-8aeb-fac939cfe783
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: Qual o nome da raposa?
+  children:
+  - beee2c37-1526-4cf8-80c9-441134fbd15e
+  - 842b5d61-80bb-4ed4-96bf-c1b5becec5e0
+  - b4aefe28-63b3-4167-bd67-e23b36544856
+  rect:
+    serializedVersion: 2
+    x: -2
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6908935812946825231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 1d738526-68ce-4678-ba0e-8faaba2447e4
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: ' Lagartixas'
+  children:
+  - cf01862c-f362-4066-9acc-a931ba79a33f
+  rect:
+    serializedVersion: 2
+    x: 595
+    y: 193
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &8349125319602074156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: c76b2e5e-ec30-403e-9e2c-79915e279550
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Vegetais
+  children:
+  - f9abc478-f251-4aba-aa11-0b5c3a0226a0
+  rect:
+    serializedVersion: 2
+    x: 599
+    y: 98
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &8876182198699188672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: cf026d68-8952-43e1-a9a7-aa1661259946
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Awn e Zorol
+  children:
+  - a9bf14d0-8e2a-4f7a-afad-a9d59e38ac49
+  rect:
+    serializedVersion: 2
+    x: 1880
+    y: 197
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &9066466322262520237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b3fe79b5-a7b2-49a9-832b-a89113a9e82c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Doces
+  children:
+  - f9abc478-f251-4aba-aa11-0b5c3a0226a0
+  rect:
+    serializedVersion: 2
+    x: 601
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &9075070634733516346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b4aefe28-63b3-4167-bd67-e23b36544856
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Ada
+  children:
+  - 93f539d5-7b09-4956-8aeb-fac939cfe783
+  rect:
+    serializedVersion: 2
+    x: 206
+    y: 204
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 

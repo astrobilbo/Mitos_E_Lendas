@@ -1,0 +1,506 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9049471824982505303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 27c51ed7-581b-4a2e-9103-2c7478d1104c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: " Ol\xE1, amigo! Eu sei que voc\xEA gosta muito de cevada e se voc\xEA me
+    levar nas suas costas eu te mostro um caminho!\r"
+  children:
+  - 8266e9ea-9eb8-4af2-b7d4-9ed1a09e67e0
+  rect:
+    serializedVersion: 2
+    x: 867
+    y: 129
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-8754311605222613302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 8cc86735-23fe-4123-a17f-fe29d7c62589
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: " A raposa logo ficou satisfeita, mas o camelo ainda comia. Awan ent\xE3o
+    foi at\xE9 o campo de cevada e come\xE7ou a gritar e correr.\r"
+  children:
+  - 56557301-f23f-4deb-993d-9e8a4d5d685f
+  rect:
+    serializedVersion: 2
+    x: 1421
+    y: 13
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-8654087484081724652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 3925a394-a97a-447f-b236-4a1eb318bee2
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: "Eu tenho a mania de correr e gritar depois que como lagartixas! Vamos logo
+    antes que nos peguem aqui!\r"
+  children:
+  - 115eb2e5-c418-4423-9893-5965cb5d4f32
+  rect:
+    serializedVersion: 2
+    x: 2030
+    y: 24
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-7882105666753311191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 150f840b-a0c7-4737-8eb8-169a258044d2
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Nesse momento, Awan caiu das costas do camelo e foi levada pelo rio. O camelo
+    por sua vez chegou \xE0 outra margem sem problemas. Awan ent\xE3o recebeu uma
+    li\xE7\xE3o por sua gaiatice.\r"
+  children:
+  - 6d1e5917-7aee-4eda-8044-79cc059b821e
+  rect:
+    serializedVersion: 2
+    x: 2941
+    y: 40
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-4233973952245291409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 56557301-f23f-4deb-993d-9e8a4d5d685f
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "A gritaria da raposa chamou a aten\xE7\xE3o dos donos do campo de cevada,
+    que foram at\xE9 l\xE1 e deram uma pedrada fort\xEDssima na cabe\xE7a do camelo,
+    que caiu machucado.\r"
+  children:
+  - d6caa89c-d44e-4608-afaf-2d66a860653c
+  rect:
+    serializedVersion: 2
+    x: 1620
+    y: 8
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3254892548545817054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 6d1e5917-7aee-4eda-8044-79cc059b821e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Muito bem apresentado Gabriela! Seu trabalho ficou impec\xE1vel"
+  children:
+  - 167c5d35-09fc-4a43-a4f5-b8141c353f8b
+  rect:
+    serializedVersion: 2
+    x: 3160
+    y: 34
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-632957494787003937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 115eb2e5-c418-4423-9893-5965cb5d4f32
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Awan subiu nas costas de Zorol e o camelo come\xE7ou a dan\xE7ar quando
+    estavam cruzando o rio. Awan ficou desesperada!\r"
+  children:
+  - 32f252da-9672-4d59-993e-1f5f2a7bf6d6
+  rect:
+    serializedVersion: 2
+    x: 2240
+    y: 20
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-558901374710908109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: d6caa89c-d44e-4608-afaf-2d66a860653c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 3
+  text: "Por que voc\xEA gritou e come\xE7ou a correr? Por sua culpa eles me machucaram
+    e eu quase morri!\r"
+  children:
+  - 3925a394-a97a-447f-b236-4a1eb318bee2
+  rect:
+    serializedVersion: 2
+    x: 1820
+    y: 24
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: HistoriaGabriela
+  m_EditorClassIdentifier: 
+  Characters:
+  - Gabi
+  - Professor akin
+  - Awan
+  - Zorol
+  - A turma
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: 6896028424460770815}
+  - {fileID: 2792294384647390976}
+  - {fileID: 3046637895483298741}
+  - {fileID: -9049471824982505303}
+  - {fileID: 6812357438840180651}
+  - {fileID: 5813438259611959898}
+  - {fileID: -4233973952245291409}
+  - {fileID: -558901374710908109}
+  - {fileID: -8654087484081724652}
+  - {fileID: -632957494787003937}
+  - {fileID: 6214424178790009194}
+  - {fileID: 7320982272367511540}
+  - {fileID: -7882105666753311191}
+  - {fileID: 8391542152971853738}
+  - {fileID: -8754311605222613302}
+  - {fileID: 7694497090992123620}
+  - {fileID: -3254892548545817054}
+  - {fileID: 1146487418268350262}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &1146487418268350262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 167c5d35-09fc-4a43-a4f5-b8141c353f8b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Mas \xE9 claro que ficou, dei o meu melhor nesse trabalho \"Como sempre
+    fa\xE7o\"\r"
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 3356
+    y: 34
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: end
+--- !u!114 &2792294384647390976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: fb8d4853-e1bd-4a99-99a1-cad6d7741b2f
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Estou indo agora pra apresentar o melhor trabalho do dia\r"
+  children:
+  - 8d0bbc4e-dc60-4509-928a-aca5cf28c0d6
+  rect:
+    serializedVersion: 2
+    x: 203
+    y: 2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &3046637895483298741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 8d0bbc4e-dc60-4509-928a-aca5cf28c0d6
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Tudo come\xE7ou com uma raposa chamada Awan que adorava comer lagartixas.
+    Ela j\xE1 tinha devorado todas de um lado do rio, mas queria atravessar para
+    a outra margem, para comer mais. S\xF3 que ..."
+  children:
+  - d908c645-5116-48b0-85c1-717c676b929a
+  rect:
+    serializedVersion: 2
+    x: 403
+    y: 2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5813438259611959898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 0823dc48-913a-4702-966e-fccafa1daed7
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Awan ent\xE3o subiu na corcunda de seu amigo e logo Zorol atravessou o rio.
+    Quando chegaram l\xE1, Zorol foi at\xE9 o campo de cevada para comer enquanto
+    Awan se deliciava com as lagartixas."
+  children:
+  - 8cc86735-23fe-4123-a17f-fe29d7c62589
+  rect:
+    serializedVersion: 2
+    x: 1221
+    y: 11
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6214424178790009194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 32f252da-9672-4d59-993e-1f5f2a7bf6d6
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: "Por que voc\xEA est\xE1 fazendo isso?\r"
+  children:
+  - 5e0483d3-8a50-493b-9302-a77c51a836ea
+  rect:
+    serializedVersion: 2
+    x: 2454
+    y: 11
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6812357438840180651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 8266e9ea-9eb8-4af2-b7d4-9ed1a09e67e0
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 3
+  text: "Simbora ent\xE3o! Sobe a\xED nas minhas costas Awan!\r"
+  children:
+  - 0823dc48-913a-4702-966e-fccafa1daed7
+  rect:
+    serializedVersion: 2
+    x: 1014
+    y: 9
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6896028424460770815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 42649b21-e770-49bc-bb06-95b59efd1c1a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Agora, ser\xE1 a nossa querida aluna Gabriela que ira apresentar seu trabalho!
+    Pode vir Gabi!"
+  children:
+  - fb8d4853-e1bd-4a99-99a1-cad6d7741b2f
+  rect:
+    serializedVersion: 2
+    x: 4
+    y: 2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &7320982272367511540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 5e0483d3-8a50-493b-9302-a77c51a836ea
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 3
+  text: "\xC9 que eu tenho a mania de dan\xE7ar depois que como cevada.\r"
+  children:
+  - 150f840b-a0c7-4737-8eb8-169a258044d2
+  rect:
+    serializedVersion: 2
+    x: 2699
+    y: 31
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &7694497090992123620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: d908c645-5116-48b0-85c1-717c676b929a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 4
+  text: "Tinham crocodilos na \xE1gua!!!"
+  children:
+  - ea995995-e0d3-4d19-a951-8946ee072534
+  rect:
+    serializedVersion: 2
+    x: 604
+    y: 12
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &8391542152971853738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: ea995995-e0d3-4d19-a951-8946ee072534
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "N\xE3o, Ela n\xE3o sabia nadar gente, foi ent\xE3o que ela foi correndo
+    procurar seu amigo Zorol, o camelo.\r"
+  children:
+  - 27c51ed7-581b-4a2e-9103-2c7478d1104c
+  rect:
+    serializedVersion: 2
+    x: 812
+    y: 8
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 

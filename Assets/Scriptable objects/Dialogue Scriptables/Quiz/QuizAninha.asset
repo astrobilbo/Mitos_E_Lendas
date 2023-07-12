@@ -1,0 +1,551 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8528132964282872920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 3dff73ac-082e-4529-b1c0-b9e5a08a1eff
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Todas as pessoas que usam \xF3culos s\xE3o bonitas e estilosas"
+  children:
+  - e3a0df82-3e0b-404f-8700-e2839c4e7d54
+  rect:
+    serializedVersion: 2
+    x: 1998
+    y: 184
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-8299179157855051204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 659c179d-6268-4f08-9efd-6b1fc65f1308
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: O sapinho tinha gosto ruim
+  children:
+  - 596d1a6f-a12b-4596-8cd5-4dd066c2460c
+  rect:
+    serializedVersion: 2
+    x: 1604
+    y: 190
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-6844997865831092362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 3f5af464-ae1f-45ef-b27f-f8b1f894135d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Porque a fam\xEDlia da Cobrinha n\xE3o gostou do Sapinho?"
+  children:
+  - 86763451-ff22-4c17-80fb-6d6750c5dc2c
+  - b18d2328-c22f-46f7-8f89-40605bee07ca
+  - 99d63a25-593e-455c-924f-040aeadcf6f3
+  rect:
+    serializedVersion: 2
+    x: 974
+    y: 193
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-6375378734058125623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 99d63a25-593e-455c-924f-040aeadcf6f3
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "O sapinho n\xE3o tinha estilo\r"
+  children:
+  - 3f5af464-ae1f-45ef-b27f-f8b1f894135d
+  rect:
+    serializedVersion: 2
+    x: 1159
+    y: 296
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-6062280073894414917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: c1da1d64-218d-48d3-b853-fff1f4bf2c23
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: Porque o Sapinho e a cobrinha se tornaram amigas?
+  children:
+  - 164eddc0-de78-44eb-b965-e4adc6a063d1
+  - 6006409a-5f13-44b8-ba1f-c6874d073f0b
+  - 6a402c92-b24b-4991-bd78-80a953496a2a
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-5931710882135728459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: e3a0df82-3e0b-404f-8700-e2839c4e7d54
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Qual a moral da hist\xF3ria?"
+  children:
+  - 6d0785d2-5b38-4ca0-b577-b4e8312290b0
+  - 3dff73ac-082e-4529-b1c0-b9e5a08a1eff
+  - c97e798f-5029-4166-bf8c-ffcb4f729735
+  rect:
+    serializedVersion: 2
+    x: 1793
+    y: 79
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-4452829391725764102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 956ab33c-e7e5-4c0b-9d2a-6b447fb3c5e6
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "A cobra n\xE3o era inteligente"
+  children:
+  - a3615dfd-b17f-4723-b9e1-fda400506dc3
+  rect:
+    serializedVersion: 2
+    x: 713
+    y: 61
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3874241309671450558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 6d0785d2-5b38-4ca0-b577-b4e8312290b0
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "O sapo tem gosto ruim e cobras s\xE3o trai\xE7oeiras"
+  children:
+  - e3a0df82-3e0b-404f-8700-e2839c4e7d54
+  rect:
+    serializedVersion: 2
+    x: 1992
+    y: 82
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3409413879717243462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 8b77ef35-56ae-4524-a618-337ac230b61c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: " A cobrinha n\xE3o sabe pular"
+  children:
+  - a3615dfd-b17f-4723-b9e1-fda400506dc3
+  rect:
+    serializedVersion: 2
+    x: 751
+    y: 300
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3105158833782806131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b18d2328-c22f-46f7-8f89-40605bee07ca
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "A fam\xEDlia da cobrinha tem medo do veneno dos sapos e de seus pulos"
+  children:
+  - 3f5af464-ae1f-45ef-b27f-f8b1f894135d
+  rect:
+    serializedVersion: 2
+    x: 1174
+    y: 193
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-2763454089115946135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 6a402c92-b24b-4991-bd78-80a953496a2a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Elas usavam \xF3culos parecidos"
+  children:
+  - a3615dfd-b17f-4723-b9e1-fda400506dc3
+  rect:
+    serializedVersion: 2
+    x: 210
+    y: 300
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-1732283804629477796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 6006409a-5f13-44b8-ba1f-c6874d073f0b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Elas gostavam de bolo de cenoura
+  children:
+  - c1da1d64-218d-48d3-b853-fff1f4bf2c23
+  rect:
+    serializedVersion: 2
+    x: 193
+    y: 110
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: QuizAninha
+  m_EditorClassIdentifier: 
+  Characters:
+  - Resposta
+  - Professor akim
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: -6062280073894414917}
+  - {fileID: 6556280321591139584}
+  - {fileID: -1732283804629477796}
+  - {fileID: -2763454089115946135}
+  - {fileID: 7269707477784061739}
+  - {fileID: -4452829391725764102}
+  - {fileID: 4391597909674479611}
+  - {fileID: -3409413879717243462}
+  - {fileID: -6844997865831092362}
+  - {fileID: 7229225479872857}
+  - {fileID: -3105158833782806131}
+  - {fileID: -6375378734058125623}
+  - {fileID: 3134647546012354708}
+  - {fileID: 1564382690527045138}
+  - {fileID: -8299179157855051204}
+  - {fileID: 5560858793366891245}
+  - {fileID: -5931710882135728459}
+  - {fileID: -3874241309671450558}
+  - {fileID: -8528132964282872920}
+  - {fileID: 7199145194044726687}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &7229225479872857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 86763451-ff22-4c17-80fb-6d6750c5dc2c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "A fam\xEDlia da cobrinha come sapos e n\xE3o queria que ela brincasse com
+    a comida"
+  children:
+  - 596d1a6f-a12b-4596-8cd5-4dd066c2460c
+  rect:
+    serializedVersion: 2
+    x: 1155
+    y: 63
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1564382690527045138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 3574dcdd-d2d4-4e37-8b74-1a347393c7c9
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Ela se lembrou da tarde que teve com a amiga e suas mem\xF3rias boas"
+  children:
+  - e3a0df82-3e0b-404f-8700-e2839c4e7d54
+  rect:
+    serializedVersion: 2
+    x: 1589
+    y: 84
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &3134647546012354708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 596d1a6f-a12b-4596-8cd5-4dd066c2460c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Porque a cobrinha n\xE3o comeu o Sapinho?"
+  children:
+  - 3574dcdd-d2d4-4e37-8b74-1a347393c7c9
+  - 659c179d-6268-4f08-9efd-6b1fc65f1308
+  - 45367b6d-0fc7-45ac-a147-22f6baeaca9e
+  rect:
+    serializedVersion: 2
+    x: 1394
+    y: 80
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4391597909674479611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 792b676d-b423-4a71-b4e4-7cca234888e3
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "A fam\xEDlia teve medo pois cobras s\xE3o venenosas"
+  children:
+  - 3f5af464-ae1f-45ef-b27f-f8b1f894135d
+  rect:
+    serializedVersion: 2
+    x: 728
+    y: 194
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5560858793366891245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 45367b6d-0fc7-45ac-a147-22f6baeaca9e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "A cobrinha n\xE3o estava com tanta fome assim pra comer um sapo inteiro"
+  children:
+  - 596d1a6f-a12b-4596-8cd5-4dd066c2460c
+  rect:
+    serializedVersion: 2
+    x: 1607
+    y: 290
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6556280321591139584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 164eddc0-de78-44eb-b965-e4adc6a063d1
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Torciam para o mesmo time
+  children:
+  - c1da1d64-218d-48d3-b853-fff1f4bf2c23
+  rect:
+    serializedVersion: 2
+    x: 304
+    y: -5
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &7199145194044726687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: c97e798f-5029-4166-bf8c-ffcb4f729735
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Nem sempre a rivalidade familiar antiga \xE9 algo bom, seu maior inimigo
+    tamb\xE9m \xE9 uma pessoa\r"
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 2020
+    y: 277
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: end
+--- !u!114 &7269707477784061739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a3615dfd-b17f-4723-b9e1-fda400506dc3
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Porque a fam\xEDlia do Sapinho n\xE3o gostou da Cobrinha?"
+  children:
+  - 956ab33c-e7e5-4c0b-9d2a-6b447fb3c5e6
+  - 792b676d-b423-4a71-b4e4-7cca234888e3
+  - 8b77ef35-56ae-4524-a618-337ac230b61c
+  rect:
+    serializedVersion: 2
+    x: 491
+    y: 232
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 

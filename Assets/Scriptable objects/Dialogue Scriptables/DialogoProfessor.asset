@@ -1,0 +1,361 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8563215880326646447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 75a833b0-4a37-43f2-b785-cf82212ba5da
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Sim professor\u2026"
+  children:
+  - 67385a84-9407-41f8-b9ca-a14f496ac88a
+  - cb2d9401-ca7e-4763-aaf6-a319dfe26576
+  rect:
+    serializedVersion: 2
+    x: 1311
+    y: 20
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-8397823958085925790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 93472a5d-acd1-415f-b6a0-658ed20fd556
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "\xD3timo! Quero que voc\xEAs prestem bastante aten\xE7\xE3o nas hist\xF3rias
+    que seus colegas ir\xE3o contar, pois no final irei fazer perguntas a respeito
+    de cada hist\xF3ria, ouviram bem?"
+  children:
+  - 75a833b0-4a37-43f2-b785-cf82212ba5da
+  rect:
+    serializedVersion: 2
+    x: 1099
+    y: 19
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-5412273721745858115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: d8385569-1ca2-4f9c-b667-9b3eaa6cf5a0
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: Sim professor!!!
+  children:
+  - 93472a5d-acd1-415f-b6a0-658ed20fd556
+  rect:
+    serializedVersion: 2
+    x: 864
+    y: 22
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-4356168300518037724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 0a32997e-fc0d-4df2-bee3-18cfd2f95916
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "O primeiro aluno a vir aqui pra frente ser\xE1:"
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 2374
+    y: 89
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: End
+--- !u!114 &-2970966030383409754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: cb2d9401-ca7e-4763-aaf6-a319dfe26576
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: '"a turma parece meio desanimada, Talvez eu deva perguntar novamente"'
+  children:
+  - dc9e4847-9d2c-42e6-a461-e27acea4a837
+  rect:
+    serializedVersion: 2
+    x: 1527
+    y: 26
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-1399966072986153462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 639ab5dd-40cf-4700-9c2a-fc52eeb5c98d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Bom dia turma! \nTudo bem com voc\xEAs?"
+  children:
+  - bae05c8d-a8cf-43ef-ba2e-2f7b086e2e02
+  rect:
+    serializedVersion: 2
+    x: -5
+    y: 18
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-1126652476484473851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: bae05c8d-a8cf-43ef-ba2e-2f7b086e2e02
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Bom dia Professor, \nTudo bem ,e com o senhor,professor?"
+  children:
+  - 811c6c5b-1a47-4910-8393-f0befd65bb57
+  rect:
+    serializedVersion: 2
+    x: 219
+    y: 29
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-695194020104459842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: d035ccf3-0e99-4d88-aef7-ed9d9a9a7dd0
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: Sim professor!!!
+  children:
+  - 9f478eb6-5348-4285-8e6f-ffa10f7468e6
+  rect:
+    serializedVersion: 2
+    x: 1944
+    y: 23
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: DialogoProfessor
+  m_EditorClassIdentifier: 
+  Characters:
+  - 'A turma '
+  - 'Professor akin '
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: -1399966072986153462}
+  - {fileID: -5412273721745858115}
+  - {fileID: -8397823958085925790}
+  - {fileID: -8563215880326646447}
+  - {fileID: 5468036789091463411}
+  - {fileID: -695194020104459842}
+  - {fileID: 1123575808452078913}
+  - {fileID: 7252787920362421311}
+  - {fileID: -1126652476484473851}
+  - {fileID: 720664273792978300}
+  - {fileID: 8235378621912621019}
+  - {fileID: -2970966030383409754}
+  - {fileID: -4356168300518037724}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &720664273792978300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 811c6c5b-1a47-4910-8393-f0befd65bb57
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "tudo bem tamb\xE9m, dando sequ\xEAncia \xE0 nossa aula"
+  children:
+  - 809353a1-756a-4848-a7b1-1777a7fd4e78
+  rect:
+    serializedVersion: 2
+    x: 417
+    y: 41
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1123575808452078913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 67385a84-9407-41f8-b9ca-a14f496ac88a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "O primeiro aluno a vir aqui pra frente ser\xE1:\n"
+  children:
+  - 0a32997e-fc0d-4df2-bee3-18cfd2f95916
+  rect:
+    serializedVersion: 2
+    x: 1553
+    y: 136
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5468036789091463411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: dc9e4847-9d2c-42e6-a461-e27acea4a837
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Eu n\xE3o ouvi direito!"
+  children:
+  - d035ccf3-0e99-4d88-aef7-ed9d9a9a7dd0
+  rect:
+    serializedVersion: 2
+    x: 1724
+    y: 29
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &7252787920362421311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 809353a1-756a-4848-a7b1-1777a7fd4e78
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Semana passada pedi a cada um de voc\xEAs para escreverem sobre lendas africanas,
+    \nTodo mundo fez o trabalho?"
+  children:
+  - d8385569-1ca2-4f9c-b667-9b3eaa6cf5a0
+  rect:
+    serializedVersion: 2
+    x: 650
+    y: 20
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &8235378621912621019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 9f478eb6-5348-4285-8e6f-ffa10f7468e6
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: Agora sim!
+  children:
+  - 0a32997e-fc0d-4df2-bee3-18cfd2f95916
+  rect:
+    serializedVersion: 2
+    x: 2151
+    y: 29
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 

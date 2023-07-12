@@ -1,0 +1,575 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8510999316528549457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 8886fc93-cb13-4071-a898-1cb47f3a10b5
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Unidos somos mais felizes
+  children:
+  - 409a11c4-19d2-4e89-9b40-7f4da5b384d4
+  rect:
+    serializedVersion: 2
+    x: 226
+    y: 6
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: win
+--- !u!114 &-7171352144994396163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 409a11c4-19d2-4e89-9b40-7f4da5b384d4
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Qual era a profiss\xE3o do Senhor?"
+  children:
+  - b56284ed-ba9e-4b7f-926c-e47a4a524531
+  - c468c0bb-bc2c-420e-ba54-802e5beb5c75
+  - b3eda4ac-9d7e-4c3f-ad49-5c984d052567
+  rect:
+    serializedVersion: 2
+    x: 444
+    y: 98
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-5458136933369672214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: cfd51160-f8d7-4629-a641-e5492b0970a4
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Doces
+  children:
+  - 4438e994-df3b-43a6-b4f7-e522eb2814af
+  rect:
+    serializedVersion: 2
+    x: 1104
+    y: 27
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: win
+--- !u!114 &-5186861434552362558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 36fae02c-6481-4369-a474-71cc535d209a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Cultura Zolu e Manhosa
+  children:
+  - 47183cda-94f1-47a6-839a-4313b00a4982
+  rect:
+    serializedVersion: 2
+    x: 1913
+    y: 261
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-5158947151308544128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: c468c0bb-bc2c-420e-ba54-802e5beb5c75
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Antrop\xF3logo"
+  children:
+  - aeae468d-c937-4aac-978f-d76eee6cebd6
+  rect:
+    serializedVersion: 2
+    x: 657
+    y: 18
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: win
+--- !u!114 &-3449802625668894652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: ffc45b08-f049-4f7b-93f3-cf1ee1bc888c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Roupas
+  children:
+  - aeae468d-c937-4aac-978f-d76eee6cebd6
+  rect:
+    serializedVersion: 2
+    x: 1097
+    y: 137
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-2693721976209399764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b56284ed-ba9e-4b7f-926c-e47a4a524531
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Juiz do Baba
+  children:
+  - 409a11c4-19d2-4e89-9b40-7f4da5b384d4
+  rect:
+    serializedVersion: 2
+    x: 647
+    y: 162
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-1670156119152956346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 12459b1d-6c71-4293-89f7-044d894cd2b2
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Ubuntu
+  children:
+  - 47183cda-94f1-47a6-839a-4313b00a4982
+  rect:
+    serializedVersion: 2
+    x: 1503
+    y: 26
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: win
+--- !u!114 &-1668965588347613582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 4438e994-df3b-43a6-b4f7-e522eb2814af
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Qual \xE9 o nome da lenda?"
+  children:
+  - 12459b1d-6c71-4293-89f7-044d894cd2b2
+  - 23afceaf-6c41-4beb-b05f-4b75813463cd
+  - ca8f1adc-1319-43c7-a24f-c85d7926e99c
+  rect:
+    serializedVersion: 2
+    x: 1303
+    y: 102
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-1571627032505104770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: ca8f1adc-1319-43c7-a24f-c85d7926e99c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: O gato e a lebre
+  children:
+  - 4438e994-df3b-43a6-b4f7-e522eb2814af
+  rect:
+    serializedVersion: 2
+    x: 1504
+    y: 270
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-155766238942778391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 59e877c9-025e-4d72-9832-1226cf8ecea4
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Qual a moral da hist\xF3ria?"
+  children:
+  - 8886fc93-cb13-4071-a898-1cb47f3a10b5
+  - 0ed26825-8de0-4624-acc2-65e4524441f0
+  - 7e9052f3-1b9c-4dca-a3d4-2f9d7effca12
+  rect:
+    serializedVersion: 2
+    x: 6
+    y: 78
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: QuizLukinhas
+  m_EditorClassIdentifier: 
+  Characters:
+  - Resposta
+  - Professor akim
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: -155766238942778391}
+  - {fileID: -8510999316528549457}
+  - {fileID: -7171352144994396163}
+  - {fileID: 5940950045796128249}
+  - {fileID: 2291768385338568272}
+  - {fileID: -5158947151308544128}
+  - {fileID: 5567536549214362719}
+  - {fileID: -2693721976209399764}
+  - {fileID: 6145581148373274002}
+  - {fileID: -5458136933369672214}
+  - {fileID: -3449802625668894652}
+  - {fileID: 1739581164933068557}
+  - {fileID: -1668965588347613582}
+  - {fileID: -1670156119152956346}
+  - {fileID: 165977203792618371}
+  - {fileID: -1571627032505104770}
+  - {fileID: 1521576527390284857}
+  - {fileID: 4691183597811116532}
+  - {fileID: 6531973211206373555}
+  - {fileID: -5186861434552362558}
+  - {fileID: 5128948444820062500}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &165977203792618371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 23afceaf-6c41-4beb-b05f-4b75813463cd
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Crocodilo andante
+  children:
+  - 4438e994-df3b-43a6-b4f7-e522eb2814af
+  rect:
+    serializedVersion: 2
+    x: 1505
+    y: 156
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1521576527390284857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 47183cda-94f1-47a6-839a-4313b00a4982
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: De onde surgiu a lenda?
+  children:
+  - e8325173-739d-4d42-ade1-ff2fb0b47de4
+  - 5a42701f-58ff-482b-b132-18a11b821cb0
+  - 36fae02c-6481-4369-a474-71cc535d209a
+  rect:
+    serializedVersion: 2
+    x: 1706
+    y: 101
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1739581164933068557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 44196384-3f9b-4103-a275-1ccdaab52c38
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Frutas
+  children:
+  - aeae468d-c937-4aac-978f-d76eee6cebd6
+  rect:
+    serializedVersion: 2
+    x: 1141
+    y: 249
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &2291768385338568272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 7e9052f3-1b9c-4dca-a3d4-2f9d7effca12
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "N\xE3o perder no baba"
+  children:
+  - 59e877c9-025e-4d72-9832-1226cf8ecea4
+  rect:
+    serializedVersion: 2
+    x: 205
+    y: 238
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4691183597811116532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: e8325173-739d-4d42-ade1-ff2fb0b47de4
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Cultura Zulu e Xhosa
+  children:
+  - d85ee010-6062-4f31-90b6-7ec78e439a0c
+  rect:
+    serializedVersion: 2
+    x: 1923
+    y: 26
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5128948444820062500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: d85ee010-6062-4f31-90b6-7ec78e439a0c
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Gostaram das perguntas turma? Agora est\xE1 na vez de..."
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 2141
+    y: 20
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: end
+--- !u!114 &5567536549214362719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: aeae468d-c937-4aac-978f-d76eee6cebd6
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: O que tinha dentro do cesto?
+  children:
+  - cfd51160-f8d7-4629-a641-e5492b0970a4
+  - ffc45b08-f049-4f7b-93f3-cf1ee1bc888c
+  - 44196384-3f9b-4103-a275-1ccdaab52c38
+  rect:
+    serializedVersion: 2
+    x: 871
+    y: 92
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5940950045796128249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 0ed26825-8de0-4624-acc2-65e4524441f0
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "N\xE3o falar com estranhos"
+  children:
+  - 59e877c9-025e-4d72-9832-1226cf8ecea4
+  rect:
+    serializedVersion: 2
+    x: 228
+    y: 120
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6145581148373274002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b3eda4ac-9d7e-4c3f-ad49-5c984d052567
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Amigo dos pais
+  children:
+  - 409a11c4-19d2-4e89-9b40-7f4da5b384d4
+  rect:
+    serializedVersion: 2
+    x: 648
+    y: 252
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6531973211206373555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 5a42701f-58ff-482b-b132-18a11b821cb0
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Cultura Zilu e Xuxa
+  children:
+  - 47183cda-94f1-47a6-839a-4313b00a4982
+  rect:
+    serializedVersion: 2
+    x: 1903
+    y: 155
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 

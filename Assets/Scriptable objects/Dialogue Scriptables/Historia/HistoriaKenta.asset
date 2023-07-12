@@ -1,0 +1,486 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9149185394034957833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 75d2a649-ba6c-42a0-992f-932e73c299ba
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: " No outro dia, a girafa foi at\xE9 a casa do feiticeiro, mas o rinoceronte
+    n\xE3o compareceu pois estava muito feliz comendo algumas ervas que tinha encontrado
+    pelo caminho."
+  children:
+  - 83bd9ff0-6562-4b11-875d-3d62667111ff
+  rect:
+    serializedVersion: 2
+    x: 2165
+    y: 13
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-7309731983139258249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: d961bc0e-5cf6-43aa-9371-42ea79f89502
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "At\xE9 que houve um per\xEDodo de seca terr\xEDvel, em que os animais j\xE1
+    haviam comido todas as ervas rasteiras e precisavam andar muito para conseguir
+    beber \xE1gua."
+  children:
+  - f10e617c-3d82-411c-96fe-67a484880ab4
+  rect:
+    serializedVersion: 2
+    x: 597
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-6247683097759647921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 83bd9ff0-6562-4b11-875d-3d62667111ff
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "O feiticeiro ofereceu o feiti\xE7o apenas \xE0 girafa e sumiu. A girafa
+    comeu a po\xE7\xE3o m\xE1gica e logo come\xE7ou a sentir suas pernas e pesco\xE7o
+    alongando-se."
+  children:
+  - 17b0aa33-4036-4123-b3c2-02f5bd22deed
+  rect:
+    serializedVersion: 2
+    x: 2387
+    y: 19
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-5380675324166221970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 9ce131e2-0a3d-4590-b606-c895bf581b2a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Dattebayo! Um dia, contarei pra voc\xEAs sobre um Samurai chamado Yasuke,
+    mas hoje, falarei sobre a lenda da Girafa e do Rinoceronte!"
+  children:
+  - f9add4f2-96a7-479c-84c0-556433fc46e6
+  rect:
+    serializedVersion: 2
+    x: 203
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-4004183574246075773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 44ddaec9-18a6-4d4c-90f6-3f2f681e3b54
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "A girafa adorou a ideia e eles foram at\xE9 a casa do feiticeiro explicar
+    o que gostariam."
+  children:
+  - e8b62b42-6723-4b9e-ae34-205fd3a8ed9e
+  rect:
+    serializedVersion: 2
+    x: 1693
+    y: 8
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3928955817847159388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: da931cf4-4cce-4451-ac85-9601c7cd8290
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: "Veja s\xF3, amigo... Muitos animais escavando o ch\xE3o em busca de alimento,
+    tudo est\xE1 t\xE3o seco, mas as ac\xE1cias continuam verdes."
+  children:
+  - 425e2afa-bdf6-4552-b670-13118ae6cc67
+  rect:
+    serializedVersion: 2
+    x: 1045
+    y: 9
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-3530156140740234569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a04626cf-053a-4416-a607-f6bd3c290f67
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Kenta, Agora sua vez de vir at\xE9 aqui e contar a todos da hist\xF3ria
+    que voc\xEA escolheu"
+  children:
+  - 9ce131e2-0a3d-4590-b606-c895bf581b2a
+  rect:
+    serializedVersion: 2
+    x: 3
+    y: 1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-2620443602551995361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 3dc87892-937a-4d7c-8721-3ec46c43ef46
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "O rinoceronte de repente se lembrou do compromisso e correu at\xE9 a casa
+    do feiticeiro em busca da po\xE7\xE3o, mas j\xE1 era tarde e n\xE3o havia mais
+    po\xE7\xE3o."
+  children:
+  - b3979f38-4821-483d-a73c-741db84429ec
+  rect:
+    serializedVersion: 2
+    x: 2799
+    y: 28
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-2195443551882475977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: e8b62b42-6723-4b9e-ae34-205fd3a8ed9e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "O feiticeiro disse que isso seria muito f\xE1cil e pediu para que ambos
+    voltassem no dia seguinte para que ele lhes desse uma po\xE7\xE3o a fim de que
+    seus pesco\xE7os e pernas crescessem e pudessem alcan\xE7arem as folhas macias
+    da ac\xE1cias.\r"
+  children:
+  - 75d2a649-ba6c-42a0-992f-932e73c299ba
+  rect:
+    serializedVersion: 2
+    x: 1947
+    y: 8
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: HistoriaKenta
+  m_EditorClassIdentifier: 
+  Characters:
+  - 'Kenta '
+  - 'Professor akin '
+  - 'Girafa  '
+  - 'Rinoceronte '
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: -3530156140740234569}
+  - {fileID: -5380675324166221970}
+  - {fileID: 6162577703373270359}
+  - {fileID: -3928955817847159388}
+  - {fileID: 1971280043126645618}
+  - {fileID: -4004183574246075773}
+  - {fileID: -6247683097759647921}
+  - {fileID: -2620443602551995361}
+  - {fileID: 3038429605979151123}
+  - {fileID: 2399058786722927665}
+  - {fileID: -7309731983139258249}
+  - {fileID: 3404481361597032241}
+  - {fileID: 1244352457068454793}
+  - {fileID: -2195443551882475977}
+  - {fileID: -9149185394034957833}
+  - {fileID: 4798019422663531762}
+  - {fileID: 6737207137573392187}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &1244352457068454793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 425e2afa-bdf6-4552-b670-13118ae6cc67
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 2
+  text: "seria maravilhoso poder comer essas folhagens que se encontram no alto das
+    copas. \xC9 uma pena que n\xE3o possamos subir nas \xE1rvores."
+  children:
+  - 1674cd9a-66fa-4906-ad2a-be8b2aa1f797
+  rect:
+    serializedVersion: 2
+    x: 1252
+    y: 13
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1971280043126645618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 1674cd9a-66fa-4906-ad2a-be8b2aa1f797
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 3
+  text: "E se f\xF4ssemos falar com o feiticeiro? Ele \xE9 muito poderoso e pode
+    ajudar.\r"
+  children:
+  - 44ddaec9-18a6-4d4c-90f6-3f2f681e3b54
+  rect:
+    serializedVersion: 2
+    x: 1466
+    y: 7
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &2399058786722927665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: f1b1acc7-9fe5-4e13-9dff-be1c57b98679
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "OLOKO! Muito obrigado professor, dattebayo!\r"
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 3424
+    y: 46
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: end
+--- !u!114 &3038429605979151123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a197b5b6-26c7-48a2-96af-d770df643a8e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Muito bem Kenta! Sua hist\xF3ria foi incr\xEDvel! Semana que vem voc\xEA
+    pode falar sobre o Samurai Yasuke, o primeiro samurai negro da historia!\r"
+  children:
+  - f1b1acc7-9fe5-4e13-9dff-be1c57b98679
+  rect:
+    serializedVersion: 2
+    x: 3226
+    y: 38
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &3404481361597032241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: f10e617c-3d82-411c-96fe-67a484880ab4
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: " Um dia, em uma dessas andan\xE7as em busca de \xE1gua, a girafa encontrou
+    um rinoceronte e os dois come\xE7aram a lamentar-se"
+  children:
+  - da931cf4-4cce-4451-ac85-9601c7cd8290
+  rect:
+    serializedVersion: 2
+    x: 810
+    y: 7
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4798019422663531762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 17b0aa33-4036-4123-b3c2-02f5bd22deed
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: " Ela sentiu-se tonta, mas quando abriu os olhos percebeu como tudo estava
+    diferente. Logo avistou uma ac\xE1cia e pode se deliciar com suas folhas verdinhas.\r"
+  children:
+  - 3dc87892-937a-4d7c-8721-3ec46c43ef46
+  rect:
+    serializedVersion: 2
+    x: 2592
+    y: 20
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6162577703373270359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: f9add4f2-96a7-479c-84c0-556433fc46e6
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Segundo a lenda, a girafa era um animal com um pesco\xE7o normal e pernas
+    pequenas, assim como o de outros bichos. "
+  children:
+  - d961bc0e-5cf6-43aa-9371-42ea79f89502
+  rect:
+    serializedVersion: 2
+    x: 406
+    y: 0
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6737207137573392187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b3979f38-4821-483d-a73c-741db84429ec
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: " Ele ficou furioso, pois imaginou que tivesse sido enganado. Desde ent\xE3o
+    passou a perseguir o feiticeiro pela floresta e corre atr\xE1s tamb\xE9m de todas
+    as pessoas que cruzam seu caminho.\r"
+  children:
+  - a197b5b6-26c7-48a2-96af-d770df643a8e
+  rect:
+    serializedVersion: 2
+    x: 2999
+    y: 28
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 

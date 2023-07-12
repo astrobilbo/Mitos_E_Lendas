@@ -1,0 +1,444 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8869340400235224367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: bd39bbfd-9284-4215-aa32-7815011fdf7e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Menino
+  children:
+  - 668558e9-4e5a-4799-9995-f906fb18dab1
+  rect:
+    serializedVersion: 2
+    x: 1468
+    y: 167
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-6680583355577353178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 9eecb1eb-3dde-467a-9980-686c657a4f02
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Fome e solid\xE3o"
+  children:
+  - f029b6f0-4840-409e-8711-f46b7c860474
+  rect:
+    serializedVersion: 2
+    x: 619
+    y: 218
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-5365212077929333059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: d63931c4-abb1-490d-8f78-ca9a4deeaef7
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Corda
+  children:
+  - 668558e9-4e5a-4799-9995-f906fb18dab1
+  rect:
+    serializedVersion: 2
+    x: 1020
+    y: 261
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-5046982985772209936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: e06ad9c9-4b92-4781-a1c9-b1d1af366659
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Mostrar o tambor aos amigos
+  children:
+  - f029b6f0-4840-409e-8711-f46b7c860474
+  rect:
+    serializedVersion: 2
+    x: 609
+    y: 8
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-4703391898820188985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 60e12652-8086-4e2c-b5dc-bba54763c6e6
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: O que o macaco usou para descer com ajuda da lua?
+  children:
+  - 2026eb52-8d8a-4c46-8896-87aeb8c17df9
+  - 68ed83ae-c477-4d9c-860d-4f185ad0b90d
+  - d63931c4-abb1-490d-8f78-ca9a4deeaef7
+  rect:
+    serializedVersion: 2
+    x: 811
+    y: 129
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-4114768827450031362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a9123ade-7ead-4236-ba6e-395c00b08acc
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Alde\xE3o"
+  children:
+  - 668558e9-4e5a-4799-9995-f906fb18dab1
+  rect:
+    serializedVersion: 2
+    x: 1428
+    y: 56
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-2258198387192906596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 668558e9-4e5a-4799-9995-f906fb18dab1
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: A quem o macaco confiou o tambor antes de dar seu ultimo suspiro
+  children:
+  - a9123ade-7ead-4236-ba6e-395c00b08acc
+  - bd39bbfd-9284-4215-aa32-7815011fdf7e
+  - 5197a5e6-8c71-4c28-924b-5d2334367a04
+  rect:
+    serializedVersion: 2
+    x: 1226
+    y: 173
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-2047541570900833403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 10ccd068-ec39-4703-8986-0e616b2b0e63
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Escada gigante
+  children:
+  - b28e7342-d81b-4f4b-a962-e2952cf3f4a3
+  rect:
+    serializedVersion: 2
+    x: 199
+    y: -1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-152650114299597606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 1e18cd00-0f63-4438-9b65-63b4454fc130
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Saudades
+  children:
+  - 60e12652-8086-4e2c-b5dc-bba54763c6e6
+  rect:
+    serializedVersion: 2
+    x: 614
+    y: 115
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: QuizMarcelo
+  m_EditorClassIdentifier: 
+  Characters:
+  - Resposta
+  - Professor akim
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: 4521586471752117054}
+  - {fileID: -2047541570900833403}
+  - {fileID: 6406773924232201657}
+  - {fileID: 4332679932418352906}
+  - {fileID: 6510449587328499378}
+  - {fileID: -5046982985772209936}
+  - {fileID: -152650114299597606}
+  - {fileID: -6680583355577353178}
+  - {fileID: -4703391898820188985}
+  - {fileID: 2464227301268502539}
+  - {fileID: 8508678232023987891}
+  - {fileID: -5365212077929333059}
+  - {fileID: -2258198387192906596}
+  - {fileID: -4114768827450031362}
+  - {fileID: -8869340400235224367}
+  - {fileID: 1059603159528295079}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &1059603159528295079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 5197a5e6-8c71-4c28-924b-5d2334367a04
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Menina
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 1450
+    y: 283
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: end
+--- !u!114 &2464227301268502539
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 2026eb52-8d8a-4c46-8896-87aeb8c17df9
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Um elevador
+  children:
+  - 60e12652-8086-4e2c-b5dc-bba54763c6e6
+  - 842b5d61-80bb-4ed4-96bf-c1b5becec5e0
+  rect:
+    serializedVersion: 2
+    x: 998
+    y: -1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4332679932418352906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 0a6fefd9-3c65-4362-a74a-f92318fb02e8
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Foquetes caseiros
+  children:
+  - b28e7342-d81b-4f4b-a962-e2952cf3f4a3
+  rect:
+    serializedVersion: 2
+    x: 208
+    y: 221
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4521586471752117054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b28e7342-d81b-4f4b-a962-e2952cf3f4a3
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Qual estrategia os macacos usaram para subir at\xE9 a lua"
+  children:
+  - 10ccd068-ec39-4703-8986-0e616b2b0e63
+  - 2ec9d3e3-14ee-4d1d-9a5a-7448730e1ebd
+  - 0a6fefd9-3c65-4362-a74a-f92318fb02e8
+  rect:
+    serializedVersion: 2
+    x: -4
+    y: 2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6406773924232201657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 2ec9d3e3-14ee-4d1d-9a5a-7448730e1ebd
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Empilhando-se uns nos outros
+  children:
+  - f029b6f0-4840-409e-8711-f46b7c860474
+  rect:
+    serializedVersion: 2
+    x: 199
+    y: 97
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6510449587328499378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: f029b6f0-4840-409e-8711-f46b7c860474
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: Motivo do macaco querer voltar
+  children:
+  - e06ad9c9-4b92-4781-a1c9-b1d1af366659
+  - 1e18cd00-0f63-4438-9b65-63b4454fc130
+  - 9eecb1eb-3dde-467a-9980-686c657a4f02
+  rect:
+    serializedVersion: 2
+    x: 412
+    y: 97
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &8508678232023987891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 68ed83ae-c477-4d9c-860d-4f185ad0b90d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "P\xF3 magico"
+  children:
+  - 60e12652-8086-4e2c-b5dc-bba54763c6e6
+  rect:
+    serializedVersion: 2
+    x: 1005
+    y: 130
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
